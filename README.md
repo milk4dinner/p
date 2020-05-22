@@ -1,0 +1,2 @@
+# p
+cd to project
